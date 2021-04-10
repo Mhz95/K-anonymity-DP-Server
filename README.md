@@ -53,7 +53,7 @@ i.e. no perturbed location is returned as a response, we send a perturbed locati
 by adding Gaussian/Laplacian noise to the original location.    
 
 This project is linked to another project which serves as an interface for the server (Laravel Web App)   
-the interface recives the messages and visualize them on map and record them on table for both incoming/outgoing messages.
+the interface receives the messages and visualize them on map and record them on table for both incoming/outgoing messages.
 
 The other project can be found in [Privacy Server Map](https://github.com/Mhz95/privacy-server-map)
 
